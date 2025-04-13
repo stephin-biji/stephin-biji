@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Stephin Biji
 
-<!--
-**stephin-biji/stephin-biji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a Class 12 student learning Python, Streamlit, and building mini projects step by step.
 
-Here are some ideas to get you started:
+🚀 I'm passionate about creating useful apps and documenting my journey from school to a career in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects I'm working on:
+- ✅ Grade Checker App (Streamlit)
+- 🧠 Quiz App (coming soon)
+- 💡 More Streamlit apps on the way!
+
+🎯 Future Goals:
+- Become a Python Developer
+- Study BCA + MCA
+- Join a top tech company like Google, Wipro, or TCS
+- Move to the USA for higher studies and work
+
+🔐 Most of my projects are private for now, but I’ll make them public soon!
+
+📩 Feel free to connect with me or follow my journey!
