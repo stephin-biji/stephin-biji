@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stephin Biji
+#  Hi, I'm Stephin Biji
 
 🎓 BCA Student at CHRIST University
 💻 Learning C++, Python, SQL and Web Development
